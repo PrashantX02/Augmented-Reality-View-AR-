@@ -11,7 +11,7 @@ io.github.sceneview:arsceneview:0.9.8
 
 🌟 AR Model Viewer
 
-📱 An AR application displaying 3D models using SceneView. Built with Kotlin, leveraging SceneView.
+📱 An AR app showcasing 3D models via SceneView, built with Kotlin.
 
 🔑 Features:
 
